@@ -20,4 +20,4 @@ GitHub allows for *version control* and *forking*. This means that you can basic
 Maybe you're good at character development, or you enjoy writing vivid descriptions. Whatever your forte, you will get to display it and maybe even get it added into the mainline.
 
 ## The story?
-We intend for this repository to contain many different stories, novels and chapters from all over the world. feel free to add your own or contribute to an ongoing story!
+We intend for this repository to contain many different stories, novels and chapters written by all sorts of people. Feel free to add your own or contribute to an ongoing story!
